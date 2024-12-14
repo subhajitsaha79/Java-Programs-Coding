@@ -1,0 +1,10 @@
+INSERT INTO employee(id, name, gender, city, department) VALUES(1, 'Subhajit Saha', 'Male', 'Kolkata', 'Training');
+INSERT INTO employee(id, name, gender, city, department) VALUES(2, 'Palki Sharma', 'Female', 'Noida', 'News');
+INSERT INTO employee(id, name, gender, city, department) VALUES(3, 'Ravi Shukla', 'Male', 'Chennai', 'Development');
+INSERT INTO employee(id, name, gender, city, department) VALUES(4, 'Rohit Sharma', 'Male', 'Bangalore', 'Testing');
+INSERT INTO employee(id, name, gender, city, department) VALUES(5, 'Sneha Dey', 'Male', 'Kolkata', 'Developement');
+
+
+SELECT * from employee;
+
+delete from employee;
